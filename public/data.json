@@ -1,0 +1,19 @@
+{
+    "prices": [
+        {
+            "name": "bayi",
+            "price": 14900
+        },
+        {
+            "name": "pelajar",
+            "price": 23450
+        },
+        {
+            "name": "personal",
+            "price": 38900
+        },{
+            "name": "bisnis",
+            "price": 65900
+        }
+    ]
+}
