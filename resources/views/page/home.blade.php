@@ -335,7 +335,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-6">
-                <img src="{{ asset('assets/images/image support.png') }}" style="width: 100%" />
+                <img src="{{ asset('assets/images/Image support.png') }}" style="width: 100%" />
             </div>
         </div>
     </div>
